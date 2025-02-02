@@ -1,5 +1,5 @@
 locals {
-  cluster_name    = "test_EKS_cluster"
+  cluster_name    = "Kensyo_EKS_cluster"
   cluster_version = "1.32"
 }
 
